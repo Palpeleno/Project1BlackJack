@@ -241,7 +241,7 @@ div.options:hover a{
 
 .containerstand{
   position: absolute; 
-	top: 563px;
+	top: 623px;
 	left: 1200px;
 	width: 73px; 
 	height: 104px;
@@ -250,7 +250,7 @@ div.options:hover a{
 
 .containerreveal{
   position: absolute; 
-	top: 563px;
+	top: 623px;
 	left: 782px;
 	width: 73px; 
 	height: 104px;
@@ -259,7 +259,7 @@ div.options:hover a{
 
 .containerreveal2{
   position: absolute; 
-	top: 563px;
+	top: 623px;
 	left: 867px;
 	width: 73px; 
 	height: 104px;
@@ -342,28 +342,28 @@ div.options:hover a{
 @-webkit-keyframes draw {
 	
 	100%{
-		-webkit-transform: translateY(-228%) translateX(-170%);
+		-webkit-transform: translateY(-171%) translateX(-170%);
 	}
 }
 
 @-webkit-keyframes draw2 {
 	
 	100%{
-		-webkit-transform: translateY(-228%) translateX(-45%);
+		-webkit-transform: translateY(-171%) translateX(-45%);
 	}
 }
 
 @-webkit-keyframes draw3 {
 	
 	100%{
-		-webkit-transform: translateY(-116%) translateX(-391%);
+		-webkit-transform: translateY(-62%) translateX(-391%);
 	}
 }
 
 @-webkit-keyframes draw4 {
 	
 	100%{
-		-webkit-transform: translateY(-228%) translateX(525%);
+		-webkit-transform: translateY(-171%) translateX(525%);
 	}
 }
 
@@ -516,7 +516,7 @@ div.options:hover a{
 @-webkit-keyframes drawfirst {
 	
 	100%{
-		-webkit-transform: translateY(-228%) translateX(-392%);
+		-webkit-transform: translateY(-171%) translateX(-392%);
 	}
 }
 
@@ -569,7 +569,7 @@ div.options:hover a{
 @-webkit-keyframes drawsecond {
 	
 	100%{
-		-webkit-transform: translateY(-228%) translateX(-280%);
+		-webkit-transform: translateY(-171%) translateX(-280%);
 	}
 }
 
@@ -623,7 +623,7 @@ div.options:hover a{
 @-webkit-keyframes drawthird {
 	
 	100%{
-		-webkit-transform: translateY(-228%) translateX(296%);
+		-webkit-transform: translateY(-171%) translateX(296%);
 	}
 }
 
@@ -653,7 +653,7 @@ div.options:hover a{
 @-webkit-keyframes drawhiddencard {
 	
 	100%{
-		-webkit-transform: translateY(-228%) translateX(406%);
+		-webkit-transform: translateY(-171%) translateX(406%);
 	}
 }
 
