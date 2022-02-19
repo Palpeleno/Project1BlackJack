@@ -18,6 +18,9 @@ img.cardanimation {
 }
 #hometitle {
   color: white;
+  border: #1d6139;
+  
+  background-color: #333;
 }
 
 #homeoptions {
@@ -780,7 +783,7 @@ div.options:hover a {
   border-style: solid;
   border-width: 5px;
   width: 1200px;
-  height: 900px;
+  height: auto;
   margin: auto;
 
   background-color: #1d6139;
@@ -803,6 +806,8 @@ div.options:hover a {
 
 .description dt {
   font-weight: bold;
+  font-size: 2pc;
   display: flex;
   flex-flow: column nowrap;
 }
+
